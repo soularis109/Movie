@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+}
+
+.col {
+    border: 1px solid white;
+}
